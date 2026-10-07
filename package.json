@@ -1,0 +1,20 @@
+{
+  "name": "smart-clinic-system",
+  "version": "1.0.0",
+  "description": "Smart Clinic System - Modern Healthcare Management Platform",
+  "scripts": {
+    "start": "node server/server.js",
+    "server": "cd server && npm start",
+    "client": "cd client && npm run dev",
+    "build": "cd client && npm run build"
+  },
+  "keywords": [
+    "clinic",
+    "hospital",
+    "healthcare",
+    "opd",
+    "management"
+  ],
+  "author": "",
+  "license": "ISC"
+}
